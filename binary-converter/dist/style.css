@@ -1,0 +1,52 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/4220858.png");
+  background-color: #202020;
+}
+
+div#externo {
+  margin-top: 80px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  height: 500px;
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 50px;
+}
+
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 35px;
+  background-color: #518681;
+  font-size: 30px;
+}
+
+input#valorBase {
+  text-align: center;
+  font-size: 21px;
+}
+
+input#selector {
+  font-size: 30px;
+}
+
+div#interno {
+  color: #ffffff;
+  margin-top: 150px;
+}
+
+button {
+  font-size: 15px;
+}
+
+label {
+/*   border-radius: 10%; */
+  background-color: #518681;
+  font-size: 20px;
+}
